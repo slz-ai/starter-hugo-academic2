@@ -1,12 +1,12 @@
 ---
 title: Shenglai Zeng
-role: A Junior Student of UESTC
+role: Undergraduate Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Federated Learning
+  - Distributed Machine Learning
+  - Intelligent Network
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Electronic Science and Technology of China
+    url: https://www.uestc.edu.cn
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-i am good!
+My name is Shenglai Zeng, an undergraduate student from UESTC
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
