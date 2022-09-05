@@ -1,6 +1,6 @@
 ---
 title: Shenglai Zeng
-role: Professor of Artificial Intelligence
+role: A Junior Student of UESTC
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
