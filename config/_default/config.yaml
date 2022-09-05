@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://slz-ai.github.io' # Website URL
 
 ############################
 ## LANGUAGE
@@ -18,10 +18,11 @@ removePathAccents: true
 ############################
 ## MODULES
 ############################
-module:
-  proxy: https://goproxy.cn
+
+
 
 module:
+  proxy: https://goproxy.cn
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
