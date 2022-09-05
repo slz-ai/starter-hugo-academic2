@@ -18,6 +18,8 @@ removePathAccents: true
 ############################
 ## MODULES
 ############################
+module:
+  proxy: https://goproxy.cn
 
 module:
   imports:
