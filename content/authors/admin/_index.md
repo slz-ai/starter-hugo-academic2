@@ -1,7 +1,7 @@
 ---
 title: Shenglai Zeng
 role: Undergraduate Student
-avatar_filename: shenglai.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
