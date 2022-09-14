@@ -10,7 +10,7 @@ authors:
   - Zenglin Xu
   - Dusit Niyato
   - and Han Yu
-publication: DASFAA
+publication: In *DASFAA*
 publication_short: ""
 abstract: >-
   Federated learning (FL) is a rapidly growing privacy preserving collaborative
@@ -64,5 +64,5 @@ image:
   focal_point: Smart
   preview_only: false
 summary: ""
-date: 2022-09-14T07:26:12.763Z
+date: 2022-04-10T07:26:12.763Z
 ---
