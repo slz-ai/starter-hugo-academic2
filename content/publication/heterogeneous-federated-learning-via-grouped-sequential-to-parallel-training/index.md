@@ -51,8 +51,14 @@ abstract: >-
 
   nication overhead by more than 90%
 draft: false
-featured: false
-tags: []
+featured: true
+tags:
+  - example
+categories:
+  - example
+projects:
+  - example
+slides: example
 image:
   filename: featured.png
   focal_point: Smart
