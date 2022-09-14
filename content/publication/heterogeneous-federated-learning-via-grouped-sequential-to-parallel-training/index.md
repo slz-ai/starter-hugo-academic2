@@ -52,11 +52,11 @@ abstract: >-
   nication overhead by more than 90%
 draft: false
 featured: false
+tags: []
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
-summary: It's good
+summary: ""
 date: 2022-09-14T07:26:12.763Z
 ---
-dfsadfasdasd
