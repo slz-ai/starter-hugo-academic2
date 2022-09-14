@@ -2,8 +2,8 @@
 title: Shenglai Zeng
 role: Undergraduate Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include Federated Learning, Distributed ML,
+  Intelligent Network "
 interests:
   - Federated Learning
   - Distributed Machine Learning
