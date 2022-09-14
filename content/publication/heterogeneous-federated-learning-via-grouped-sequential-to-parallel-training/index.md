@@ -3,7 +3,7 @@ title: Heterogeneous Federated Learning via Grouped Sequential-to-Parallel Train
 publication_types:
   - "1"
 authors:
-  - Shenglai Zeng
+  - admin
   - Zonghang Li
   - Hongfang Yu
   - Yihong He
