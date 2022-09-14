@@ -32,6 +32,6 @@ user_groups:
   - University of Electronic Science and Technology of China
 highlight_name: true
 ---
-My name is Shenglai Zeng, an undergraduate student from UESTC
+My name is Shenglai Zeng, an undergraduate student from UESTC. My research interests are mainly about Federated Learning/ Distributed Machine Learning/Intelligent Netwrok. I am also willing to try other interesting topics in the future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
